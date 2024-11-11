@@ -1,7 +1,4 @@
 # -*- coding: utf-8 -*-
-from __future__ import print_function
-from __future__ import with_statement
-
 import os
 import os.path
 from subprocess import check_output
